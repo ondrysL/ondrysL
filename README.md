@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am 18 year old developer.
+
 <!--
 **ondrysL/ondrysL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
