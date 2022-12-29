@@ -6,8 +6,8 @@ I am 18-year-old developer who is currently self-leatning code. Next year I plan
 
 Currently, I am interested in front-end technology and want to learn React in order to become a full-stack developer.
 
-Here is a list of my current knowledge:
- - Java
+### List of my current knowledge: 🎯
+ - Java /e/ icon
  - PosgreSQL
  - HTML and CSS
  - Javascript
