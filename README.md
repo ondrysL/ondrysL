@@ -7,10 +7,10 @@ I am 18-year-old developer who is currently self-leatning code. Next year I plan
 Currently, I am interested in front-end technology and want to learn React in order to become a full-stack developer.
 
 ### List of my current knowledge: 🎯
- - Java /e/ icon
- - PosgreSQL
- - HTML and CSS
- - Javascript
+ - Java :computer:
+ - PosgreSQL :floppy_disk:
+ - HTML and CSS :bookmark_tabs:
+ - Javascript :chart_with_downwards_trend:
 
 <!--
 **ondrysL/ondrysL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
